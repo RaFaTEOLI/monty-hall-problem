@@ -1,11 +1,11 @@
 # monty-hall-problem
 
 <h2>How To Install</h2>
--- Download the project
-git clone https://github.com/RaFaTEOLI/monty-hall-problem/
--- Install dependencies
-npm install
--- Run
+-- Download the project <br>
+git clone https://github.com/RaFaTEOLI/monty-hall-problem/ <br>
+-- Install dependencies <br>
+npm install <br>
+-- Run <br>
 npm run serve
 
 <h2>About</h2>
